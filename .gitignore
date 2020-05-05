@@ -1,2 +1,3 @@
 build.fxbuild
 .settings/
+*.class
